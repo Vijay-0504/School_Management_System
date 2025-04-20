@@ -28,5 +28,5 @@ A simple yet efficient **School Management System** built to handle core academi
 
 ---
 
-## 📂 Project Structure
+
 
