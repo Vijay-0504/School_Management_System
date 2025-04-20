@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+.container, .login-container {
+    width: 50%;
+    margin: 50px auto;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label {
+    margin-top: 10px;
+}
+
+input, button {
+    margin-top: 5px;
+    padding: 10px;
+}
+
+button {
+    background: #28a745;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #218838;
+}
+/* Navbar Styles */
+.navbar {
+    background-color: #333;
+    overflow: hidden;
+    padding: 10px 0;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.navbar a:hover {
+    background-color: #575757;
+}
+
+.navbar .logout {
+    float: right;
+    background-color: red;
+    padding: 14px 20px;
+}
+
+.navbar .logout:hover {
+    background-color: darkred;
+}
