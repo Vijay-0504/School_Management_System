@@ -3,8 +3,11 @@
 A simple yet efficient **School Management System** built to handle core academic data such as **marks**, **attendance**, and generate detailed **grade sheets and reports** for students.
 
 ---
- ![Dashboard](images/markaattendance.jpeg)
-  ![Dashboard](images/dashboard.jpeg)
+ ![Dashboard](images/dashboard.jpeg)
+ ![Dashboard](images/markattendance.jpeg)
+ ![Dashboard](images/Gradesheets.jpeg)
+ ![Dashboard](images/Analysis.jpeg)
+  
 ## 🚀 Features
 
 
